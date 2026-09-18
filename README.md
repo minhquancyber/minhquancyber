@@ -1,55 +1,18 @@
-<!-- Tên hiệu ứng gõ chữ -->
-<p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Nguy%E1%BB%85n+Minh+Qu%C3%A2n"></a>
-</p>
 
-<!-- Icon mạng xã hội -->
-<p align="center">
-  <a href="https://github.com/minhquancyber"><img src="https://img.shields.io/badge/GitHub-F03B9E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nguyenminhquan0214) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mihquan03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/quanminhanalyst) 
 
-<h2>👋 Xin chào, chúc bạn một ngày tốt lành</h2>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=minhquancyber&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=minhquancyber&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=minhquancyber&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Mình là một người đam mê công nghệ, đặc biệt là an ninh mạng (cybersecurity). Mình đang trên hành trình trở thành một SOC Analyst, tìm hiểu về SIEM, phát hiện tấn công và ứng phó sự cố thông qua các bài lab và dự án cá nhân. Mình thích học công cụ bảo mật mới, giải các thử thách (CTF), và biến kiến thức học được thành kỹ năng thực tế. Luôn tò mò, luôn học hỏi, và luôn tiến gần hơn một bước để trở thành một người bảo vệ hệ thống tốt hơn. 🚀🔐
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Hiệu ứng động: Pacman contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhquancyber/minhquancyber/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhquancyber/minhquancyber/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minhquancyber/minhquancyber/output/pacman-contribution-graph.svg" width="800">
-</picture>
+---
+[![](https://komarev.com/ghpvc/?username=minhquancyber&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2>📚 Ngôn ngữ và Công cụ</h2>
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40"/>
-</p>
-
-<h2>💻 Thống kê GitHub</h2>
-<p align="center">
-  <img alt="minhquancyber's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=minhquancyber&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="minhquancyber's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=minhquancyber&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</p>
-
-<h2>🔥 Streak Stats</h2>
-<p align="center">
-  <a href="https://github.com/minhquancyber">
-    <img alt="minhquancyber's streak" src="https://streak-stats.demolab.com/?user=minhquancyber&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-<h2>⚡ Hoạt động GitHub gần đây</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=minhquancyber&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="minhquancyber's Activity Graph"/>
-</p>
-
-<!-- Snake contribution animation (hiệu ứng con rắn ăn ô đóng góp, chạy tự động bằng GitHub Action) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/minhquancyber/minhquancyber/output/github-contribution-grid-snake.svg" alt="snake contribution graph"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
