@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I am Quan</h1>
+<h1 align="center">👋 Hello, I'm Quan</h1>
 <h3 align="center">🛡️ Aspiring SOC Analyst | Threat Detection • Log Analysis • Incident Response</h3>
 
 <p align="center">
