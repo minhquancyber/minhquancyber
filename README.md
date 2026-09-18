@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Quan</h1>
+<h1 align="center">👋 Hi, I'm Minh Quan</h1>
 <h3 align="center">🛡️ Aspiring SOC Analyst | Threat Detection • Log Analysis • Incident Response</h3>
 
 <p align="center">
@@ -15,11 +15,15 @@
 - ⚙️ Coding background → turning repetitive detection work into automation
 - 🎯 Goal: SOC Analyst today, Threat Hunter tomorrow
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="coding animation"/>
+</p>
+
 ---
 
-### 🛠️ Kỹ năng & Công cụ
+### 🛠️ Skills & Tools
 
-**Lập trình & Xử lý dữ liệu**
+**Programming & Data Processing**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,7 +35,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Định hướng An ninh mạng / SOC**
+**Cybersecurity / SOC Direction**
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -40,7 +44,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-> *Ghi chú: đây là những công cụ mình đang học/định hướng — cứ thay đổi badge cho khớp với những gì bạn thực sự đã dùng nhé.*
+> *Note: these are tools I'm learning/aiming for — feel free to swap the badges to match what you've actually used.*
 
 ---
 
@@ -58,7 +62,7 @@
 
 ---
 
-### 🌐 Kết nối với mình
+### 🌐 Connect With Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nguyenminhquan0214)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mihquan03)
